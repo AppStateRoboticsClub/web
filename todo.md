@@ -2,6 +2,7 @@
 Updated 1/30/22:
 - Finish redesign
 - Fix contact box glitches
+- Implement loading splash screen
 - Connect social media href or just delete it
 - Maybe add faq href
 - Add social media links
