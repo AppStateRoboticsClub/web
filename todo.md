@@ -14,5 +14,4 @@ Updated 1/30/22:
 
 # Future:
 - Add more pictures to the banner in the form of a gallery (pictures in the circles change every refresh)
-- Add more members
 - Trim the header
