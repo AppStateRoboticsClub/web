@@ -1,7 +1,5 @@
 # Must complete before launch:
-Updated 1/30/22:
-- Finish redesign
-- Fix contact box glitches
+Updated 1/31/22:
 - Implement loading splash screen
 - Connect social media href or just delete it
 - Maybe add faq href
