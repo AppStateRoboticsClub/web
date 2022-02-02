@@ -10,3 +10,4 @@ Updated 1/31/22:
 # Future:
 - Add more pictures to the banner in the form of a gallery (pictures in the circles change every refresh)
 - Trim the header
+- Refactor code
