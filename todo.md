@@ -1,9 +1,9 @@
 # Must complete before launch:
-Updated 1/31/22:
+Updated 2/3/22:
 - Add social media links
 - Complete 'about us' descriptions
 - Complete 'members' descriptions
-- Commplete 'faq' descriptions
+- Complete 'faq' descriptions
 - Setup a method for the contact box to save responses
 
 
